@@ -1,13 +1,13 @@
 ## Instlation 
-`$ git clone https://github.com/3zcs/MovieTrailerWebsite.git`__
-`$ unzip MovieTrailerWebsite`__
-`$ cd MovieTrailerWebsite`__
+`$ git clone https://github.com/3zcs/MovieTrailerWebsite.git`<br />
+`$ unzip MovieTrailerWebsite`<br />
+`$ cd MovieTrailerWebsite`<br />
 
 ## Run project 
-`$ python entertainment`__
+`$ python entertainment`<br />
 
 
 ## project structure
-**Movie** file is a model __
-**fresh_tomatoes** Helper class to display the website and handle data __
-**entertainment** Main file, contain all data __
+**Movie** file is a model<br />
+**fresh_tomatoes** Helper class to display the website and handle data<br />
+**entertainment** Main file, contain all data<br />
