@@ -1,6 +1,5 @@
 ## Instlation 
 `$ git clone https://github.com/3zcs/MovieTrailerWebsite.git`<br />
-`$ unzip MovieTrailerWebsite`<br />
 `$ cd MovieTrailerWebsite`<br />
 
 ## Run project 
