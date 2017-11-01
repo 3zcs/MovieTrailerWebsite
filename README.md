@@ -1,7 +1,7 @@
 ## Instlation 
 Fork this files using terminal <br />
 `$ git clone https://github.com/3zcs/MovieTrailerWebsite.git`<br />
-Then enter your folder `<br />
+Then enter your folder <br />
 `$ cd MovieTrailerWebsite`<br />
 
 ## Run project 
